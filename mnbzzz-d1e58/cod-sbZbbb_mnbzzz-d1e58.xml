@@ -43,16 +43,93 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#B" n="221-r"/>
+        <pb ed="#B" n="1-r"/>
       </div>
     </front>
     <body>
       <div xml:id="mnbzzz-d1e58">
-        <head>Prologus [Berlin Ms. theol. lat. fol. 97 Transcription]</head>
-        <p>
+        <head xml:id="mnbzzz-d1e58-Hd1e90">Prologus [Berlin Ms. theol. lat. fol. 97 Transcription]</head>
+        <div xml:id="mnbzzz-d1e58-Dd1e92">
+          <head xml:id="mnbzzz-d1e58-Hd1e94">Circa textum</head>
+          <p xml:id="mnbzzz-d1e58-d1e96">
+            <pb ed="#B" n="1-r"/>
+            <lb ed="#B" n="1"/><quote xml:id="mnbzzz-d1e58-Qd1e101" source="http://scta.info/resource/pll1prol-cadzdd@1-5">Cupientes aliquid de 
+              <lb ed="#B" n="2"/>penuria ac</quote>
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e107">
+            <lb ed="#B" n="3"/><pc type="pilcrow"/> liber sententiarum a <name xml:id="mnbzzz-d1e58-Nd1e112" ref="#Lombard">magistro pe<lb ed="#B" break="no" n="4"/>tro 
+              lumbardo parisiensi episcopo</name> ad honorem 
+            <lb ed="#B" n="5"/>et gloriam dei augmentum fidei et sui prox<lb ed="#B" break="no" n="6"/>imique 
+            salutem edita / prima sui divi<lb ed="#B" break="no" n="7"/>sione 
+            dividitur in prologum et tractatum 
+            <lb ed="#B" n="8"/>sive partem prohemalem et executivam
+            <lb ed="#B" n="9"/>Tractatus sive executiva pars ibi ve<lb ed="#B" break="no" n="10"/>teris 
+            ac novae legis etc / In prohemio 
+            <lb ed="#B" n="11"/>magister auditores facit <unclear>vemuolos da<lb ed="#B" break="no" n="12"/>ciles</unclear> 
+            et attentos ex utilitate ex compen<lb ed="#B" break="no" n="13"/>dio 
+            et difficultate et haec permiscue 
+            <lb ed="#B" n="14"/>facit magister primo praemittens <unclear>antentionem</unclear> 
+            <lb ed="#B" n="15"/>dicens
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e147">
+            <pc type="pilcrow"/> <quote xml:id="mnbzzz-d1e58-Qd1e151" source="http://scta.info/resource/pll1prol-cadzdd@1-2">Cupientes aliquid</quote> etc / Pro quo 
+            <lb ed="#B" n="16"/>sciendum quod penuria et tenuitas duplicem 
+            <lb ed="#B" n="17"/>defectum intelligentiae nostrae exprimunt 
+            <lb ed="#B" n="18"/>unus est paucitas cognitorum / Nam secundum <ref xml:id="mnbzzz-d1e58-Rd1e161"><name xml:id="mnbzzz-d1e58-Nd1e162" ref="#Grosseteste">lin<lb ed="#B" break="no" n="19"/>censis</name>
+              super primo posteriorum</ref> ea quae scimus <unclear>misteria</unclear> sunt 
+            <lb ed="#B" n="20"/>respectu eorum quae ignormaus Idem dicit <ref xml:id="mnbzzz-d1e58-Rd1e172">quidam 
+              <lb ed="#B" n="21"/>parisiensis in sua geometria</ref> Et si aliqua 
+            <lb ed="#B" n="22"/>pars tibi fuerit nota scitorum maior utique 
+            <lb ed="#B" n="23"/>emanet ignotorum hic ergo defectus exprimitur 
+            <lb ed="#B" n="24"/>per lii penuria est enim penuria non rerum 
+            <lb ed="#B" n="25"/><del rend="expunctuation">penuira</del> habundantia nec earum carentia 
+            <lb ed="#B" n="26"/>sed ipsarum modica habentia vel praeciosa
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e191">
+            <lb ed="#B" n="27"/><pc type="pilcrow"/> Sed dicens ex quibus causis plura nobis 
+            <lb ed="#B" n="28"/>incognita sunt quod cognoscuntur
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e200">
+            / Respondetur quod primo ex sci<lb ed="#B" break="no" n="29"/>bilium 
+            infinitate nostri autem intellectus 
+            <lb ed="#B" n="30"/>capacitatis finitate Quod enim scibilia 
+            <lb ed="#B" n="31"/>infinita sunt patet ex manifesta per quam traditur 
+            <lb ed="#B" n="32"/>infinitas esse figurarum <unclear>numerorum</unclear> et 
+            <lb ed="#B" n="33"/>proportionum species
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e216">
+            / de se autem nota est 
+            <lb ed="#B" n="34"/>nostri intellectus capacitatis finitas 
+            <lb ed="#B" n="35"/>2o ex scitorum notitiae labilitate In<lb ed="#B" break="no" n="36"/>tellectus 
+            enim simul et semel plura diversis 
+            <lb ed="#B" n="37"/>intentionibus intelligere non potest ut 
+            <lb ed="#B" n="38"/>habetur ex <ref xml:id="mnbzzz-d1e58-Rd1e229">2o topicorum</ref> scientia autem rerum tran<lb ed="#B" break="no" n="39"/>sit 
+            si non per actus
+            <!-- couple pages follow still untranscripted -->
+          </p>
+        </div>
+        <div xml:id="mnbzzz-d1e58-Dd1e235" type="quaestio">
+          <head xml:id="mnbzzz-d1e58-Hd1e237">Quaestio</head>
+          <head xml:id="mnbzzz-d1e58-Hd1e239" type="question-title">Utrum viatorum theologia sit practica scientia vel speculativa sapientia</head>
+          <p xml:id="mnbzzz-d1e58-d1e242">
+            <lb ed="#B" n="59" type="fixed=3-v"/> 59 Circa prologum hunc et prohemium 
+            <lb ed="#B" n="60"/>generale totius sacrae scripturae
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e249">
+            <lb ed="#B" n="61"/><pc type="pilcrow"/> Quaeritur utrum viatorum theologia 
+            <lb ed="#B" n="62"/>sit practica scientia vel speculativa sapientia
+          </p>
+          <p xml:id="mnbzzz-d1e58-d1e257">
+            <lb ed="#B" n="63"/>pro istius quaestionis decisione primo vi<lb ed="#B" break="no" n="64"/>dendum 
+            est de quadam distinctione theolo<lb ed="#B" break="no" n="65"/>giae 
+            a scientiis dictis humanitus <unclear>adinventis</unclear>
+            <lb ed="#B" n="66"/>2o de theologiae ex parte obiecti uni<lb ed="#B" break="no" n="67"/>tate 
+            et diffinitione et 3o de quaesiti divi<lb ed="#B" break="no" n="68"/>si 
+            unica responsione
+          </p>
+          <!-- pro primo -->
           
-        </p>
-        
+        </div>
       </div>
     </body>
   </text>
